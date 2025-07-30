@@ -6,6 +6,11 @@
     <description>テスト用フィード</description>
 
     <item>
+      <title></title>
+      <description>テスト3</description>
+      <pubDate>2025-07-30T19:15:00+09:00</pubDate>
+    </item>
+    <item>
       <title>テスト2</title>
       <pubDate>2025-07-30T19:10:00+09:00</pubDate>
     </item>
