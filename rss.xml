@@ -5,6 +5,11 @@
     <link>https://example.com/</link>
     <description>テスト用フィード</description>
 
+    <item>
+      <title>テスト4</title>
+      <guid isPermaLink="false">a-4</guid>
+      <pubDate>Wed, 30 Jul 2025 02:15:00 +0000</pubDate>
+    </item>
 
     <item>
       <title>テスト3</title>
