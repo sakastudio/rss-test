@@ -3,6 +3,10 @@
   <channel>
     <title>rssテスト</title>
 
-
+    <item>
+      <title>テスト1</title>
+      <guid isPermaLink="false">a-1</guid>
+    </item>
+    
   </channel>
 </rss>
