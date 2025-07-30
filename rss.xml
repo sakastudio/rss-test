@@ -2,10 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>rssテスト</title>
-    <link>https://example.com/</link>          <!-- 必須 -->
-    <description>テスト用フィード</description> <!-- 必須 -->
-    <lastBuildDate>Wed, 30 Jul 2025 02:13:00 +0000</lastBuildDate>
+    <link>https://example.com/</link>
+    <description>テスト用フィード</description>
 
+
+    <item>
+      <title>テスト3</title>
+      <guid isPermaLink="false">a-3</guid>
+      <pubDate>Wed, 30 Jul 2025 02:14:00 +0000</pubDate>
+    </item>
+    
     <item>
       <title>テスト2</title>
       <guid isPermaLink="false">a-2</guid>
