@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
   <channel>
     <title>rssテスト</title>
-    <link>https://example.com/</link>          <!-- 必須 -->
-    <description>テスト用フィード</description> <!-- 必須 -->
-    <lastBuildDate>Wed, 30 Jul 2025 02:10:00 +0000</lastBuildDate>
+    <link>https://example.com/</link>
+    <description>テスト用フィード</description>
 
     <item>
-      <title>テスト1</title>
-      <link>https://example.com</link>
-      <guid isPermaLink="false">a-1</guid>
-      <pubDate>Wed, 30 Jul 2025 02:10:00 +0000</pubDate> <!-- 更新判定 -->
-    </item>
-    <item>
-      <title>テスト2</title>
-      <link>https://example.com</link>
-      <guid isPermaLink="false">a-2</guid>
-      <pubDate>Wed, 30 Jul 2025 02:11:00 +0000</pubDate>
+      <g:id>TV_123456</g:id>
+      <g:title>Google Chromecast with Google TV</g:title>
+      <g:description>Chromecast with Google TV は、お好みのエンターテイメントを最大 4K HDR でお届けします</g:description>
+      <g:link>https://store.google.com/product/chromecast_google_tv</g:link>
+      <g:image_link>https://images.example.com/TV_123456.png</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4999 JPY</g:price>
+      <g:shipping>
+
+        <g:country>JP</g:country>
+        <g:service>標準</g:service>
+        <g:price>799 JPY</g:price>
+
+      </g:shipping>
+      <g:gtin>123456789123</g:gtin>
+      <g:brand>Google</g:brand>
     </item>
   </channel>
 </rss>
