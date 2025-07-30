@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>rssテスト</title>
+    <title>times_katsumi-sato</title>
     <link>https://example.com/</link>
     <description>テスト用フィード</description>
 
+    <item>
+      <title>こんにちは</title>
+      <pubDate>2025-07-30T18:55:00+09:00</pubDate>
+    </item>
     <item>
       <title>テスト1</title>
       <guid isPermaLink="false">a-5</guid>
