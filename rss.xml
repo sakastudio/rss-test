@@ -6,27 +6,9 @@
     <description>テスト用フィード</description>
 
     <item>
-      <title>テスト4</title>
-      <guid isPermaLink="false">a-4</guid>
-      <pubDate>Wed, 30 Jul 2025 02:15:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>テスト3</title>
-      <guid isPermaLink="false">a-3</guid>
-      <pubDate>Wed, 30 Jul 2025 02:14:00 +0000</pubDate>
-    </item>
-    
-    <item>
-      <title>テスト2</title>
-      <guid isPermaLink="false">a-2</guid>
-      <pubDate>Wed, 30 Jul 2025 02:13:00 +0000</pubDate>
-    </item>
-    
-    <item>
       <title>テスト1</title>
-      <guid isPermaLink="false">a-1</guid>
-      <pubDate>Wed, 30 Jul 2025 02:10:00 +0000</pubDate>
+      <guid isPermaLink="false">a-5</guid>
+      <pubDate>2025-07-30T18:50:00+09:00</pubDate>
     </item>
   </channel>
 </rss>
