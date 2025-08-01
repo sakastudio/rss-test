@@ -5,17 +5,10 @@
     <link>https://example.com/</link>
     <description>テスト用フィード</description>
 
-
     <item>
-      <title></title>
-      <description>Cursor無理すぎるRiderがIDEとしてあまりにも洗練されすぎており、Cursorの補完精度を使うよりも洗練されていない開発体験になるデメリットがでかい</description>
-      <pubDate>2025-08-01T18:00:00+09:00</pubDate>
-    </item>
-    
-    <item>
-      <title></title>
+      <title> </title>
       <description>Slack解除されました。さらば</description>
-      <pubDate>2025-08-01T11:00:00+09:00</pubDate>
+      <pubDate>2025-08-01T18:30:00+09:00</pubDate>
     </item>
     
     <item>
@@ -33,12 +26,10 @@
     </item>
     <item>
       <title>テスト1</title>
-      <guid isPermaLink="false">a-5</guid>
       <pubDate>2025-07-30T18:51:00+09:00</pubDate>
     </item>
     <item>
       <title>テスト1</title>
-      <guid isPermaLink="false">a-5</guid>
       <pubDate>2025-07-30T18:50:00+09:00</pubDate>
     </item>
   </channel>
