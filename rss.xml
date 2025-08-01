@@ -5,6 +5,13 @@
     <link>https://example.com/</link>
     <description>テスト用フィード</description>
 
+
+    <item>
+      <title>すごいや</title>
+      <link>https://x.com/89produce/status/1951217098535084184</link>
+      <pubDate>2025-08-01T23:10:00+09:00</pubDate>
+    </item>
+    
     <item>
       <title> </title>
       <description>Slack解除されました。さらば</description>
