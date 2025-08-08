@@ -6,6 +6,17 @@
     <description>テスト用フィード</description>
 
     <item>
+      <title>GPT-5きましたね。だけどSwe-benchスコアはClaude4Opusとあまり変わらないように見えるし、Codex CLIで使えるとはいえ、Claude codeほどの体験があるかはまだ未知数。もしかしたら性能据え置きで料金が安くなるClaude code、という立ち位置になるかもしれないですね</title>
+      <link>https://zenn.dev/schroneko/articles/introducing-gpt-5</link>
+      <pubDate>2025-08-08T10:40:00+09:00</pubDate>
+    </item>
+    <item>
+      <title>Ubieの発表はどれも参考になる</title>
+      <link>https://speakerdeck.com/guchey/aiwo-bian-li-naturu-kara-zhen-notimumeito-he</link>
+      <pubDate>2025-08-07T15:30:00+09:00</pubDate>
+    </item>
+
+    <item>
       <title>Ubieの発表はどれも参考になる</title>
       <link>https://speakerdeck.com/guchey/aiwo-bian-li-naturu-kara-zhen-notimumeito-he</link>
       <pubDate>2025-08-07T15:30:00+09:00</pubDate>
