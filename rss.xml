@@ -5,6 +5,12 @@
     <link>https://example.com/</link>
     <description>テスト用フィード</description>
 
+    
+    <item>
+      <title>もくもく会きた。村上さん引き継ぎ本当にありがとうございます！！！！！</title>
+      <pubDate>2025-08-09T11:30:00+09:00</pubDate>
+    </item>
+    
     <item>
       <title>GPT-5きましたね。だけどSwe-benchスコアはClaude4Opusとあまり変わらないように見えるし、Codex CLIで使えるとはいえ、Claude codeほどの体験があるかはまだ未知数。もしかしたら性能据え置きで料金が安くなるClaude code、という立ち位置になるかもしれないですね</title>
       <link>https://zenn.dev/schroneko/articles/introducing-gpt-5</link>
