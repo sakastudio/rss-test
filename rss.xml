@@ -5,6 +5,11 @@
     <link>https://example.com/</link>
     <description>テスト用フィード</description>
 
+    <item>
+      <title></title>
+      <description>codex cli、性能割と良さそうです。ChatGPT Plusのおまけとしてついてくるものとしてみれば、claude codeの代わりとして良いと思う</description>
+      <pubDate>2025-08-12T11:30:00+09:00</pubDate>
+    </item>
     
     <item>
       <title>もくもく会きた。村上さん引き継ぎ本当にありがとうございます！！！！！</title>
