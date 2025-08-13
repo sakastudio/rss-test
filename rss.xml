@@ -5,6 +5,15 @@
     <link>https://example.com/</link>
     <description>テスト用フィード</description>
 
+    
+    <item>
+      <title>大谷さんのDiscordサーバーの招待リングが期限切れとのことみたいなので無制限のやつを置いときますね</title>
+      <description></description>
+      <link>https://discord.gg/8MkbWh9uAd</link>
+      <pubDate>2025-08-14T08:30:00+09:00</pubDate>
+      
+    </item>
+
     <item>
       <title></title>
       <description>codex cli、性能割と良さそうです。ChatGPT Plusのおまけとしてついてくるものとしてみれば、claude codeの代わりとして良いと思う</description>
