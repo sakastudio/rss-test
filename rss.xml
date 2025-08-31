@@ -5,6 +5,12 @@
     <link>https://example.com/</link>
     <description>テスト用フィード</description>
 
+
+    <item>
+      <title></title>
+      <description>どうやら私がai-tips-engineerでつぶやくと業務扱いとなり、その日の失業保険が出なくなるらしい。つぶやきが一定回数を上回ると、もらえない額が業務委託費を超えて損になるので困る。業務委託の内容を「ツール等の利用レビュー」に絞り、普段の情報発信はボランティアとすれば、問題はないかな、、？</description>
+      <pubDate>2025-08-31T18:30:00+09:00</pubDate>
+    </item>
     
     <item>
       <title>大谷さんのDiscordサーバーの招待リングが期限切れとのことみたいなので無制限のやつを置いときますね</title>
